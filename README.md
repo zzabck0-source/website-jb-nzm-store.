@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>web by nzm store</title>
+		<h1><center>MAU BUY AKUN?</center></h1>
+		<h2><center>88297175136 sung chat</center></h2>
+
+		
+		<a href="https://www.tiktok.com/@nzmgtaunormalkga1?lang=id-ID" target="_blank" style="text-decoration: none;">
+    <button class="btn-tiktok">Akun TikTok Admin</button>
+</a>
+    
+</a>
+
+<style>
+  .btn-tiktok {
+    background-color: #000000; /* Warna hitam khas TikTok */
+    color: #ffffff;
+    padding: 12px 25px;
+    font-size: 15px;
+    font-family: 'Arial', sans-serif;
+    font-weight: 600;
+    border: none;
+    border-radius: 50px; /* Membuat tombol lonjong (pill-shaped) */
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    transition: all 0.3s ease;
+    border: 2px solid transparent;
+  }
+
+  .btn-tiktok:hover {
+    background-color: #fe2c55; /* Warna pink khas TikTok saat di-hover */
+    box-shadow: 0 0 15px rgba(254, 44, 85, 0.4);
+    transform: scale(1.05); /* Sedikit membesar */
+  }
+</style>
+
+
+<a href="https://www.tiktok.com/@atezelit2?lang=id-ID" target="_blank" style="text-decoration: none;">
+    <button class="btn-tiktok">Akun TikTok ke 2 Admin </button>
+</a>
+
+
+
+	
+<style>
+  .btn-tiktok {
+    background: linear-gradient(45deg, #000000, #333333); /* Gradasi hitam elegan */
+    color: white;
+    padding: 12px 25px;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    border: none;
+    border-radius: 50px; /* Bentuk kapsul */
+    cursor: pointer;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    transition: all 0.3s ease;
+  }
+
+  /* Efek saat kursor menempel */
+  .btn-tiktok:hover {
+    background: #fe2c55; /* Warna pink khas TikTok */
+    transform: scale(1.08); /* Tombol sedikit membesar */
+    box-shadow: 0 6px 20px rgba(254, 44, 85, 0.4);
+  }
+
+  /* Efek saat tombol diklik */
+  .btn-tiktok:active {
+    transform: scale(0.95);
+  }
+</style>
+
+
+
+
+	</head>
+	</html>
+
